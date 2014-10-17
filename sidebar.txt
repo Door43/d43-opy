@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[opy:home|Door43 (opy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-opy|d43-opy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-opy/archive/master.zip|d43-opy.zip]]
+
+**Recent Changes**
+{{changes>ns = opy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/opy|Ethnologue data]]
+
